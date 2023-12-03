@@ -1073,6 +1073,34 @@
                     "isPartOfComposite": false
                 }
             ]
+        },
+        {
+            "name": "MoveLegs",
+            "id": "ec8a1861-955f-4b07-a235-257e8519d40f",
+            "actions": [
+                {
+                    "name": "StartMovingLegs",
+                    "type": "Button",
+                    "id": "c532c3be-e1e5-4902-a3c1-46803300e797",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "79afcb95-a30a-4f07-9c35-f5ff6ab74ad3",
+                    "path": "<XRController>{LeftHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Generic XR Controller",
+                    "action": "StartMovingLegs",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
         }
     ],
     "controlSchemes": [
