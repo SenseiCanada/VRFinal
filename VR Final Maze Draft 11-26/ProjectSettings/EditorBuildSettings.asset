@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Maze Interior Test 11-26.unity
     guid: 59b34fdc80fe44cb9887be12c317f462
+  - enabled: 1
+    path: Assets/Maze Test scene 11-29 in case pulling changes breaks it.unity
+    guid: cb7431738b3504d9b96004e0d9a396fe
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 3fc999f4427124841ada094e16e8e8e1, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 254fcebeded5748aeb7d6735f225091e, type: 2}

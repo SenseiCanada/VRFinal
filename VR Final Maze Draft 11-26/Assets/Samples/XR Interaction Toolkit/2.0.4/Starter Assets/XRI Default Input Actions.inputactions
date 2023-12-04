@@ -1092,7 +1092,7 @@
                 {
                     "name": "",
                     "id": "79afcb95-a30a-4f07-9c35-f5ff6ab74ad3",
-                    "path": "<XRController>{LeftHand}/primaryButton",
+                    "path": "<XRController>{LeftHand}/thumbstickTouched",
                     "interactions": "",
                     "processors": "",
                     "groups": "Generic XR Controller",
