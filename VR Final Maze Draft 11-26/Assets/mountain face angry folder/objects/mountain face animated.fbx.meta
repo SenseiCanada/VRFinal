@@ -1,0 +1,3877 @@
+fileFormatVersion: 2
+guid: a66116d404f434f308012b7cfd41cfe1
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: _BB_boca_centro___
+  - first:
+      1: 100002
+    second: BB_boca_der
+  - first:
+      1: 100004
+    second: BB_boca_izq
+  - first:
+      1: 100006
+    second: ceja_centro____
+  - first:
+      1: 100008
+    second: ceja_der
+  - first:
+      1: 100010
+    second: ceja_Izq
+  - first:
+      1: 100012
+    second: chick_1
+  - first:
+      1: 100014
+    second: chick_2
+  - first:
+      1: 100016
+    second: face_pivote_____
+  - first:
+      1: 100018
+    second: Joint_2
+  - first:
+      1: 100020
+    second: Joint_2_10
+  - first:
+      1: 100022
+    second: Joint_2_11
+  - first:
+      1: 100024
+    second: Joint_2_12
+  - first:
+      1: 100026
+    second: Joint_2_13
+  - first:
+      1: 100028
+    second: Joint_2_14
+  - first:
+      1: 100030
+    second: Joint_2_15
+  - first:
+      1: 100032
+    second: Joint_2_16
+  - first:
+      1: 100034
+    second: Joint_2_17
+  - first:
+      1: 100036
+    second: Joint_2_18
+  - first:
+      1: 100038
+    second: Joint_2_19
+  - first:
+      1: 100040
+    second: Joint_2_2
+  - first:
+      1: 100042
+    second: Joint_2_20
+  - first:
+      1: 100044
+    second: Joint_2_21
+  - first:
+      1: 100046
+    second: Joint_2_22
+  - first:
+      1: 100048
+    second: Joint_2_23
+  - first:
+      1: 100050
+    second: Joint_2_24
+  - first:
+      1: 100052
+    second: Joint_2_25
+  - first:
+      1: 100054
+    second: Joint_2_26
+  - first:
+      1: 100056
+    second: Joint_2_27
+  - first:
+      1: 100058
+    second: Joint_2_28
+  - first:
+      1: 100060
+    second: Joint_2_3
+  - first:
+      1: 100062
+    second: Joint_2_4
+  - first:
+      1: 100064
+    second: Joint_2_5
+  - first:
+      1: 100066
+    second: Joint_2_6
+  - first:
+      1: 100068
+    second: Joint_2_7
+  - first:
+      1: 100070
+    second: Joint_2_8
+  - first:
+      1: 100072
+    second: Joint_2_9
+  - first:
+      1: 100074
+    second: //RootNode
+  - first:
+      1: 100076
+    second: MOUNTAIN_FACE_high_poly_MeshPart0
+  - first:
+      1: 100078
+    second: MOUNTAIN_FACE_high_poly_MeshPart1
+  - first:
+      1: 100080
+    second: MOUNTAIN_FACE_high_poly_MeshPart2
+  - first:
+      1: 100082
+    second: nariz
+  - first:
+      1: 100084
+    second: no_move
+  - first:
+      1: 100086
+    second: no_move_1
+  - first:
+      1: 100088
+    second: no_move_1_2
+  - first:
+      1: 100090
+    second: no_move_2_1
+  - first:
+      1: 100092
+    second: no_move_2_2
+  - first:
+      1: 100094
+    second: no_move_3
+  - first:
+      1: 100096
+    second: no_move_4
+  - first:
+      1: 100098
+    second: no_move_4_2
+  - first:
+      1: 100100
+    second: no_move_5
+  - first:
+      1: 100102
+    second: no_move_5_2
+  - first:
+      1: 100104
+    second: no_move_6
+  - first:
+      1: 100106
+    second: no_move_7_atras
+  - first:
+      1: 100108
+    second: no_move__3
+  - first:
+      1: 100110
+    second: no_move__frente
+  - first:
+      1: 100112
+    second: no_move__frente_yyu
+  - first:
+      1: 100114
+    second: no_move_NO
+  - first:
+      1: 100116
+    second: no_move_NO_1
+  - first:
+      1: 100118
+    second: no_move_NO_2
+  - first:
+      1: 100120
+    second: no_move_NO_3
+  - first:
+      1: 100122
+    second: QQQ____quijada
+  - first:
+      1: 100124
+    second: Root
+  - first:
+      1: 100126
+    second: Skin
+  - first:
+      4: 400000
+    second: _BB_boca_centro___
+  - first:
+      4: 400002
+    second: BB_boca_der
+  - first:
+      4: 400004
+    second: BB_boca_izq
+  - first:
+      4: 400006
+    second: ceja_centro____
+  - first:
+      4: 400008
+    second: ceja_der
+  - first:
+      4: 400010
+    second: ceja_Izq
+  - first:
+      4: 400012
+    second: chick_1
+  - first:
+      4: 400014
+    second: chick_2
+  - first:
+      4: 400016
+    second: face_pivote_____
+  - first:
+      4: 400018
+    second: Joint_2
+  - first:
+      4: 400020
+    second: Joint_2_10
+  - first:
+      4: 400022
+    second: Joint_2_11
+  - first:
+      4: 400024
+    second: Joint_2_12
+  - first:
+      4: 400026
+    second: Joint_2_13
+  - first:
+      4: 400028
+    second: Joint_2_14
+  - first:
+      4: 400030
+    second: Joint_2_15
+  - first:
+      4: 400032
+    second: Joint_2_16
+  - first:
+      4: 400034
+    second: Joint_2_17
+  - first:
+      4: 400036
+    second: Joint_2_18
+  - first:
+      4: 400038
+    second: Joint_2_19
+  - first:
+      4: 400040
+    second: Joint_2_2
+  - first:
+      4: 400042
+    second: Joint_2_20
+  - first:
+      4: 400044
+    second: Joint_2_21
+  - first:
+      4: 400046
+    second: Joint_2_22
+  - first:
+      4: 400048
+    second: Joint_2_23
+  - first:
+      4: 400050
+    second: Joint_2_24
+  - first:
+      4: 400052
+    second: Joint_2_25
+  - first:
+      4: 400054
+    second: Joint_2_26
+  - first:
+      4: 400056
+    second: Joint_2_27
+  - first:
+      4: 400058
+    second: Joint_2_28
+  - first:
+      4: 400060
+    second: Joint_2_3
+  - first:
+      4: 400062
+    second: Joint_2_4
+  - first:
+      4: 400064
+    second: Joint_2_5
+  - first:
+      4: 400066
+    second: Joint_2_6
+  - first:
+      4: 400068
+    second: Joint_2_7
+  - first:
+      4: 400070
+    second: Joint_2_8
+  - first:
+      4: 400072
+    second: Joint_2_9
+  - first:
+      4: 400074
+    second: //RootNode
+  - first:
+      4: 400076
+    second: MOUNTAIN_FACE_high_poly_MeshPart0
+  - first:
+      4: 400078
+    second: MOUNTAIN_FACE_high_poly_MeshPart1
+  - first:
+      4: 400080
+    second: MOUNTAIN_FACE_high_poly_MeshPart2
+  - first:
+      4: 400082
+    second: nariz
+  - first:
+      4: 400084
+    second: no_move
+  - first:
+      4: 400086
+    second: no_move_1
+  - first:
+      4: 400088
+    second: no_move_1_2
+  - first:
+      4: 400090
+    second: no_move_2_1
+  - first:
+      4: 400092
+    second: no_move_2_2
+  - first:
+      4: 400094
+    second: no_move_3
+  - first:
+      4: 400096
+    second: no_move_4
+  - first:
+      4: 400098
+    second: no_move_4_2
+  - first:
+      4: 400100
+    second: no_move_5
+  - first:
+      4: 400102
+    second: no_move_5_2
+  - first:
+      4: 400104
+    second: no_move_6
+  - first:
+      4: 400106
+    second: no_move_7_atras
+  - first:
+      4: 400108
+    second: no_move__3
+  - first:
+      4: 400110
+    second: no_move__frente
+  - first:
+      4: 400112
+    second: no_move__frente_yyu
+  - first:
+      4: 400114
+    second: no_move_NO
+  - first:
+      4: 400116
+    second: no_move_NO_1
+  - first:
+      4: 400118
+    second: no_move_NO_2
+  - first:
+      4: 400120
+    second: no_move_NO_3
+  - first:
+      4: 400122
+    second: QQQ____quijada
+  - first:
+      4: 400124
+    second: Root
+  - first:
+      4: 400126
+    second: Skin
+  - first:
+      43: 4300000
+    second: MOUNTAIN_FACE_high_poly_MeshPart0
+  - first:
+      43: 4300002
+    second: MOUNTAIN_FACE_high_poly_MeshPart1
+  - first:
+      43: 4300004
+    second: MOUNTAIN_FACE_high_poly_MeshPart2
+  - first:
+      74: 7400000
+    second: Idle mouth open
+  - first:
+      74: 7400002
+    second: open mouth 1
+  - first:
+      74: 7400004
+    second: open mouth 3
+  - first:
+      74: 7400006
+    second: open mouth 2
+  - first:
+      74: 7400008
+    second: open mouth 4
+  - first:
+      74: 7400010
+    second: open mouth 5
+  - first:
+      74: 7400012
+    second: afirmative normal
+  - first:
+      74: 7400014
+    second: negative normal
+  - first:
+      74: 7400016
+    second: afirmative talking
+  - first:
+      74: 7400018
+    second: negative talking
+  - first:
+      74: 7400020
+    second: afirmative angry
+  - first:
+      74: 7400022
+    second: negative angry
+  - first:
+      74: 7400024
+    second: just talking 01
+  - first:
+      74: 7400026
+    second: just talking 02
+  - first:
+      74: 7400028
+    second: just talking 03
+  - first:
+      74: 7400030
+    second: Idle mouth open
+  - first:
+      74: 7400032
+    second: Idle mouth close
+  - first:
+      74: 7400034
+    second: admiration mouth close
+  - first:
+      74: 7400036
+    second: admiration mouth open
+  - first:
+      74: 7400038
+    second: surprise
+  - first:
+      74: 7400040
+    second: sad mouth close
+  - first:
+      74: 7400042
+    second: sad mouth open
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: MOUNTAIN_FACE_high_poly_MeshPart0
+  - first:
+      137: 13700002
+    second: MOUNTAIN_FACE_high_poly_MeshPart1
+  - first:
+      137: 13700004
+    second: MOUNTAIN_FACE_high_poly_MeshPart2
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: open mouth 1
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart0
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart1
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart2
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/face_pivote_____
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___/Joint_2_10
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der/Joint_2_9
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq/Joint_2_8
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____/Joint_2_7
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der/Joint_2_5
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq/Joint_2_6
+        weight: 1
+      - path: Root/face_pivote_____/chick_1
+        weight: 1
+      - path: Root/face_pivote_____/chick_1/Joint_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2/Joint_2_2
+        weight: 1
+      - path: Root/face_pivote_____/nariz
+        weight: 1
+      - path: Root/face_pivote_____/nariz/Joint_2_4
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente/Joint_2_3
+        weight: 1
+      - path: Root/no_move
+        weight: 1
+      - path: Root/no_move/no_move_1
+        weight: 1
+      - path: Root/no_move/no_move_1/Joint_2_25
+        weight: 1
+      - path: Root/no_move/no_move_1_2
+        weight: 1
+      - path: Root/no_move/no_move_1_2/Joint_2_26
+        weight: 1
+      - path: Root/no_move/no_move_2_1
+        weight: 1
+      - path: Root/no_move/no_move_2_1/Joint_2_13
+        weight: 1
+      - path: Root/no_move/no_move_2_2
+        weight: 1
+      - path: Root/no_move/no_move_2_2/Joint_2_12
+        weight: 1
+      - path: Root/no_move/no_move_3
+        weight: 1
+      - path: Root/no_move/no_move_3/Joint_2_28
+        weight: 1
+      - path: Root/no_move/no_move_4
+        weight: 1
+      - path: Root/no_move/no_move_4/Joint_2_23
+        weight: 1
+      - path: Root/no_move/no_move_4_2
+        weight: 1
+      - path: Root/no_move/no_move_4_2/Joint_2_24
+        weight: 1
+      - path: Root/no_move/no_move_5
+        weight: 1
+      - path: Root/no_move/no_move_5/Joint_2_21
+        weight: 1
+      - path: Root/no_move/no_move_5_2
+        weight: 1
+      - path: Root/no_move/no_move_5_2/Joint_2_22
+        weight: 1
+      - path: Root/no_move/no_move_6
+        weight: 1
+      - path: Root/no_move/no_move_6/Joint_2_20
+        weight: 1
+      - path: Root/no_move/no_move_7_atras
+        weight: 1
+      - path: Root/no_move/no_move_7_atras/Joint_2_19
+        weight: 1
+      - path: Root/no_move/no_move__3
+        weight: 1
+      - path: Root/no_move/no_move__3/Joint_2_27
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu/Joint_2_14
+        weight: 1
+      - path: Root/no_move/no_move_NO
+        weight: 1
+      - path: Root/no_move/no_move_NO/Joint_2_18
+        weight: 1
+      - path: Root/no_move/no_move_NO_1
+        weight: 1
+      - path: Root/no_move/no_move_NO_1/Joint_2_17
+        weight: 1
+      - path: Root/no_move/no_move_NO_2
+        weight: 1
+      - path: Root/no_move/no_move_NO_2/Joint_2_16
+        weight: 1
+      - path: Root/no_move/no_move_NO_3
+        weight: 1
+      - path: Root/no_move/no_move_NO_3/Joint_2_15
+        weight: 1
+      - path: Root/no_move/QQQ____quijada
+        weight: 1
+      - path: Root/no_move/QQQ____quijada/Joint_2_11
+        weight: 1
+      - path: Skin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: open mouth 2
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 27
+      lastFrame: 52
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart0
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart1
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart2
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/face_pivote_____
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___/Joint_2_10
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der/Joint_2_9
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq/Joint_2_8
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____/Joint_2_7
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der/Joint_2_5
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq/Joint_2_6
+        weight: 1
+      - path: Root/face_pivote_____/chick_1
+        weight: 1
+      - path: Root/face_pivote_____/chick_1/Joint_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2/Joint_2_2
+        weight: 1
+      - path: Root/face_pivote_____/nariz
+        weight: 1
+      - path: Root/face_pivote_____/nariz/Joint_2_4
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente/Joint_2_3
+        weight: 1
+      - path: Root/no_move
+        weight: 1
+      - path: Root/no_move/no_move_1
+        weight: 1
+      - path: Root/no_move/no_move_1/Joint_2_25
+        weight: 1
+      - path: Root/no_move/no_move_1_2
+        weight: 1
+      - path: Root/no_move/no_move_1_2/Joint_2_26
+        weight: 1
+      - path: Root/no_move/no_move_2_1
+        weight: 1
+      - path: Root/no_move/no_move_2_1/Joint_2_13
+        weight: 1
+      - path: Root/no_move/no_move_2_2
+        weight: 1
+      - path: Root/no_move/no_move_2_2/Joint_2_12
+        weight: 1
+      - path: Root/no_move/no_move_3
+        weight: 1
+      - path: Root/no_move/no_move_3/Joint_2_28
+        weight: 1
+      - path: Root/no_move/no_move_4
+        weight: 1
+      - path: Root/no_move/no_move_4/Joint_2_23
+        weight: 1
+      - path: Root/no_move/no_move_4_2
+        weight: 1
+      - path: Root/no_move/no_move_4_2/Joint_2_24
+        weight: 1
+      - path: Root/no_move/no_move_5
+        weight: 1
+      - path: Root/no_move/no_move_5/Joint_2_21
+        weight: 1
+      - path: Root/no_move/no_move_5_2
+        weight: 1
+      - path: Root/no_move/no_move_5_2/Joint_2_22
+        weight: 1
+      - path: Root/no_move/no_move_6
+        weight: 1
+      - path: Root/no_move/no_move_6/Joint_2_20
+        weight: 1
+      - path: Root/no_move/no_move_7_atras
+        weight: 1
+      - path: Root/no_move/no_move_7_atras/Joint_2_19
+        weight: 1
+      - path: Root/no_move/no_move__3
+        weight: 1
+      - path: Root/no_move/no_move__3/Joint_2_27
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu/Joint_2_14
+        weight: 1
+      - path: Root/no_move/no_move_NO
+        weight: 1
+      - path: Root/no_move/no_move_NO/Joint_2_18
+        weight: 1
+      - path: Root/no_move/no_move_NO_1
+        weight: 1
+      - path: Root/no_move/no_move_NO_1/Joint_2_17
+        weight: 1
+      - path: Root/no_move/no_move_NO_2
+        weight: 1
+      - path: Root/no_move/no_move_NO_2/Joint_2_16
+        weight: 1
+      - path: Root/no_move/no_move_NO_3
+        weight: 1
+      - path: Root/no_move/no_move_NO_3/Joint_2_15
+        weight: 1
+      - path: Root/no_move/QQQ____quijada
+        weight: 1
+      - path: Root/no_move/QQQ____quijada/Joint_2_11
+        weight: 1
+      - path: Skin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: open mouth 3
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 54
+      lastFrame: 80
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart0
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart1
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart2
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/face_pivote_____
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___/Joint_2_10
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der/Joint_2_9
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq/Joint_2_8
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____/Joint_2_7
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der/Joint_2_5
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq/Joint_2_6
+        weight: 1
+      - path: Root/face_pivote_____/chick_1
+        weight: 1
+      - path: Root/face_pivote_____/chick_1/Joint_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2/Joint_2_2
+        weight: 1
+      - path: Root/face_pivote_____/nariz
+        weight: 1
+      - path: Root/face_pivote_____/nariz/Joint_2_4
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente/Joint_2_3
+        weight: 1
+      - path: Root/no_move
+        weight: 1
+      - path: Root/no_move/no_move_1
+        weight: 1
+      - path: Root/no_move/no_move_1/Joint_2_25
+        weight: 1
+      - path: Root/no_move/no_move_1_2
+        weight: 1
+      - path: Root/no_move/no_move_1_2/Joint_2_26
+        weight: 1
+      - path: Root/no_move/no_move_2_1
+        weight: 1
+      - path: Root/no_move/no_move_2_1/Joint_2_13
+        weight: 1
+      - path: Root/no_move/no_move_2_2
+        weight: 1
+      - path: Root/no_move/no_move_2_2/Joint_2_12
+        weight: 1
+      - path: Root/no_move/no_move_3
+        weight: 1
+      - path: Root/no_move/no_move_3/Joint_2_28
+        weight: 1
+      - path: Root/no_move/no_move_4
+        weight: 1
+      - path: Root/no_move/no_move_4/Joint_2_23
+        weight: 1
+      - path: Root/no_move/no_move_4_2
+        weight: 1
+      - path: Root/no_move/no_move_4_2/Joint_2_24
+        weight: 1
+      - path: Root/no_move/no_move_5
+        weight: 1
+      - path: Root/no_move/no_move_5/Joint_2_21
+        weight: 1
+      - path: Root/no_move/no_move_5_2
+        weight: 1
+      - path: Root/no_move/no_move_5_2/Joint_2_22
+        weight: 1
+      - path: Root/no_move/no_move_6
+        weight: 1
+      - path: Root/no_move/no_move_6/Joint_2_20
+        weight: 1
+      - path: Root/no_move/no_move_7_atras
+        weight: 1
+      - path: Root/no_move/no_move_7_atras/Joint_2_19
+        weight: 1
+      - path: Root/no_move/no_move__3
+        weight: 1
+      - path: Root/no_move/no_move__3/Joint_2_27
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu/Joint_2_14
+        weight: 1
+      - path: Root/no_move/no_move_NO
+        weight: 1
+      - path: Root/no_move/no_move_NO/Joint_2_18
+        weight: 1
+      - path: Root/no_move/no_move_NO_1
+        weight: 1
+      - path: Root/no_move/no_move_NO_1/Joint_2_17
+        weight: 1
+      - path: Root/no_move/no_move_NO_2
+        weight: 1
+      - path: Root/no_move/no_move_NO_2/Joint_2_16
+        weight: 1
+      - path: Root/no_move/no_move_NO_3
+        weight: 1
+      - path: Root/no_move/no_move_NO_3/Joint_2_15
+        weight: 1
+      - path: Root/no_move/QQQ____quijada
+        weight: 1
+      - path: Root/no_move/QQQ____quijada/Joint_2_11
+        weight: 1
+      - path: Skin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: open mouth 4
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 83
+      lastFrame: 109
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart0
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart1
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart2
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/face_pivote_____
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___/Joint_2_10
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der/Joint_2_9
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq/Joint_2_8
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____/Joint_2_7
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der/Joint_2_5
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq/Joint_2_6
+        weight: 1
+      - path: Root/face_pivote_____/chick_1
+        weight: 1
+      - path: Root/face_pivote_____/chick_1/Joint_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2/Joint_2_2
+        weight: 1
+      - path: Root/face_pivote_____/nariz
+        weight: 1
+      - path: Root/face_pivote_____/nariz/Joint_2_4
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente/Joint_2_3
+        weight: 1
+      - path: Root/no_move
+        weight: 1
+      - path: Root/no_move/no_move_1
+        weight: 1
+      - path: Root/no_move/no_move_1/Joint_2_25
+        weight: 1
+      - path: Root/no_move/no_move_1_2
+        weight: 1
+      - path: Root/no_move/no_move_1_2/Joint_2_26
+        weight: 1
+      - path: Root/no_move/no_move_2_1
+        weight: 1
+      - path: Root/no_move/no_move_2_1/Joint_2_13
+        weight: 1
+      - path: Root/no_move/no_move_2_2
+        weight: 1
+      - path: Root/no_move/no_move_2_2/Joint_2_12
+        weight: 1
+      - path: Root/no_move/no_move_3
+        weight: 1
+      - path: Root/no_move/no_move_3/Joint_2_28
+        weight: 1
+      - path: Root/no_move/no_move_4
+        weight: 1
+      - path: Root/no_move/no_move_4/Joint_2_23
+        weight: 1
+      - path: Root/no_move/no_move_4_2
+        weight: 1
+      - path: Root/no_move/no_move_4_2/Joint_2_24
+        weight: 1
+      - path: Root/no_move/no_move_5
+        weight: 1
+      - path: Root/no_move/no_move_5/Joint_2_21
+        weight: 1
+      - path: Root/no_move/no_move_5_2
+        weight: 1
+      - path: Root/no_move/no_move_5_2/Joint_2_22
+        weight: 1
+      - path: Root/no_move/no_move_6
+        weight: 1
+      - path: Root/no_move/no_move_6/Joint_2_20
+        weight: 1
+      - path: Root/no_move/no_move_7_atras
+        weight: 1
+      - path: Root/no_move/no_move_7_atras/Joint_2_19
+        weight: 1
+      - path: Root/no_move/no_move__3
+        weight: 1
+      - path: Root/no_move/no_move__3/Joint_2_27
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu/Joint_2_14
+        weight: 1
+      - path: Root/no_move/no_move_NO
+        weight: 1
+      - path: Root/no_move/no_move_NO/Joint_2_18
+        weight: 1
+      - path: Root/no_move/no_move_NO_1
+        weight: 1
+      - path: Root/no_move/no_move_NO_1/Joint_2_17
+        weight: 1
+      - path: Root/no_move/no_move_NO_2
+        weight: 1
+      - path: Root/no_move/no_move_NO_2/Joint_2_16
+        weight: 1
+      - path: Root/no_move/no_move_NO_3
+        weight: 1
+      - path: Root/no_move/no_move_NO_3/Joint_2_15
+        weight: 1
+      - path: Root/no_move/QQQ____quijada
+        weight: 1
+      - path: Root/no_move/QQQ____quijada/Joint_2_11
+        weight: 1
+      - path: Skin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: open mouth 5
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 110
+      lastFrame: 135
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart0
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart1
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart2
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/face_pivote_____
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___/Joint_2_10
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der/Joint_2_9
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq/Joint_2_8
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____/Joint_2_7
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der/Joint_2_5
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq/Joint_2_6
+        weight: 1
+      - path: Root/face_pivote_____/chick_1
+        weight: 1
+      - path: Root/face_pivote_____/chick_1/Joint_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2/Joint_2_2
+        weight: 1
+      - path: Root/face_pivote_____/nariz
+        weight: 1
+      - path: Root/face_pivote_____/nariz/Joint_2_4
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente/Joint_2_3
+        weight: 1
+      - path: Root/no_move
+        weight: 1
+      - path: Root/no_move/no_move_1
+        weight: 1
+      - path: Root/no_move/no_move_1/Joint_2_25
+        weight: 1
+      - path: Root/no_move/no_move_1_2
+        weight: 1
+      - path: Root/no_move/no_move_1_2/Joint_2_26
+        weight: 1
+      - path: Root/no_move/no_move_2_1
+        weight: 1
+      - path: Root/no_move/no_move_2_1/Joint_2_13
+        weight: 1
+      - path: Root/no_move/no_move_2_2
+        weight: 1
+      - path: Root/no_move/no_move_2_2/Joint_2_12
+        weight: 1
+      - path: Root/no_move/no_move_3
+        weight: 1
+      - path: Root/no_move/no_move_3/Joint_2_28
+        weight: 1
+      - path: Root/no_move/no_move_4
+        weight: 1
+      - path: Root/no_move/no_move_4/Joint_2_23
+        weight: 1
+      - path: Root/no_move/no_move_4_2
+        weight: 1
+      - path: Root/no_move/no_move_4_2/Joint_2_24
+        weight: 1
+      - path: Root/no_move/no_move_5
+        weight: 1
+      - path: Root/no_move/no_move_5/Joint_2_21
+        weight: 1
+      - path: Root/no_move/no_move_5_2
+        weight: 1
+      - path: Root/no_move/no_move_5_2/Joint_2_22
+        weight: 1
+      - path: Root/no_move/no_move_6
+        weight: 1
+      - path: Root/no_move/no_move_6/Joint_2_20
+        weight: 1
+      - path: Root/no_move/no_move_7_atras
+        weight: 1
+      - path: Root/no_move/no_move_7_atras/Joint_2_19
+        weight: 1
+      - path: Root/no_move/no_move__3
+        weight: 1
+      - path: Root/no_move/no_move__3/Joint_2_27
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu/Joint_2_14
+        weight: 1
+      - path: Root/no_move/no_move_NO
+        weight: 1
+      - path: Root/no_move/no_move_NO/Joint_2_18
+        weight: 1
+      - path: Root/no_move/no_move_NO_1
+        weight: 1
+      - path: Root/no_move/no_move_NO_1/Joint_2_17
+        weight: 1
+      - path: Root/no_move/no_move_NO_2
+        weight: 1
+      - path: Root/no_move/no_move_NO_2/Joint_2_16
+        weight: 1
+      - path: Root/no_move/no_move_NO_3
+        weight: 1
+      - path: Root/no_move/no_move_NO_3/Joint_2_15
+        weight: 1
+      - path: Root/no_move/QQQ____quijada
+        weight: 1
+      - path: Root/no_move/QQQ____quijada/Joint_2_11
+        weight: 1
+      - path: Skin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: afirmative normal
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 139
+      lastFrame: 160
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart0
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart1
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart2
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/face_pivote_____
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___/Joint_2_10
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der/Joint_2_9
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq/Joint_2_8
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____/Joint_2_7
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der/Joint_2_5
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq/Joint_2_6
+        weight: 1
+      - path: Root/face_pivote_____/chick_1
+        weight: 1
+      - path: Root/face_pivote_____/chick_1/Joint_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2/Joint_2_2
+        weight: 1
+      - path: Root/face_pivote_____/nariz
+        weight: 1
+      - path: Root/face_pivote_____/nariz/Joint_2_4
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente/Joint_2_3
+        weight: 1
+      - path: Root/no_move
+        weight: 1
+      - path: Root/no_move/no_move_1
+        weight: 1
+      - path: Root/no_move/no_move_1/Joint_2_25
+        weight: 1
+      - path: Root/no_move/no_move_1_2
+        weight: 1
+      - path: Root/no_move/no_move_1_2/Joint_2_26
+        weight: 1
+      - path: Root/no_move/no_move_2_1
+        weight: 1
+      - path: Root/no_move/no_move_2_1/Joint_2_13
+        weight: 1
+      - path: Root/no_move/no_move_2_2
+        weight: 1
+      - path: Root/no_move/no_move_2_2/Joint_2_12
+        weight: 1
+      - path: Root/no_move/no_move_3
+        weight: 1
+      - path: Root/no_move/no_move_3/Joint_2_28
+        weight: 1
+      - path: Root/no_move/no_move_4
+        weight: 1
+      - path: Root/no_move/no_move_4/Joint_2_23
+        weight: 1
+      - path: Root/no_move/no_move_4_2
+        weight: 1
+      - path: Root/no_move/no_move_4_2/Joint_2_24
+        weight: 1
+      - path: Root/no_move/no_move_5
+        weight: 1
+      - path: Root/no_move/no_move_5/Joint_2_21
+        weight: 1
+      - path: Root/no_move/no_move_5_2
+        weight: 1
+      - path: Root/no_move/no_move_5_2/Joint_2_22
+        weight: 1
+      - path: Root/no_move/no_move_6
+        weight: 1
+      - path: Root/no_move/no_move_6/Joint_2_20
+        weight: 1
+      - path: Root/no_move/no_move_7_atras
+        weight: 1
+      - path: Root/no_move/no_move_7_atras/Joint_2_19
+        weight: 1
+      - path: Root/no_move/no_move__3
+        weight: 1
+      - path: Root/no_move/no_move__3/Joint_2_27
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu/Joint_2_14
+        weight: 1
+      - path: Root/no_move/no_move_NO
+        weight: 1
+      - path: Root/no_move/no_move_NO/Joint_2_18
+        weight: 1
+      - path: Root/no_move/no_move_NO_1
+        weight: 1
+      - path: Root/no_move/no_move_NO_1/Joint_2_17
+        weight: 1
+      - path: Root/no_move/no_move_NO_2
+        weight: 1
+      - path: Root/no_move/no_move_NO_2/Joint_2_16
+        weight: 1
+      - path: Root/no_move/no_move_NO_3
+        weight: 1
+      - path: Root/no_move/no_move_NO_3/Joint_2_15
+        weight: 1
+      - path: Root/no_move/QQQ____quijada
+        weight: 1
+      - path: Root/no_move/QQQ____quijada/Joint_2_11
+        weight: 1
+      - path: Skin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: negative normal
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 163
+      lastFrame: 185
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart0
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart1
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart2
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/face_pivote_____
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___/Joint_2_10
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der/Joint_2_9
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq/Joint_2_8
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____/Joint_2_7
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der/Joint_2_5
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq/Joint_2_6
+        weight: 1
+      - path: Root/face_pivote_____/chick_1
+        weight: 1
+      - path: Root/face_pivote_____/chick_1/Joint_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2/Joint_2_2
+        weight: 1
+      - path: Root/face_pivote_____/nariz
+        weight: 1
+      - path: Root/face_pivote_____/nariz/Joint_2_4
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente/Joint_2_3
+        weight: 1
+      - path: Root/no_move
+        weight: 1
+      - path: Root/no_move/no_move_1
+        weight: 1
+      - path: Root/no_move/no_move_1/Joint_2_25
+        weight: 1
+      - path: Root/no_move/no_move_1_2
+        weight: 1
+      - path: Root/no_move/no_move_1_2/Joint_2_26
+        weight: 1
+      - path: Root/no_move/no_move_2_1
+        weight: 1
+      - path: Root/no_move/no_move_2_1/Joint_2_13
+        weight: 1
+      - path: Root/no_move/no_move_2_2
+        weight: 1
+      - path: Root/no_move/no_move_2_2/Joint_2_12
+        weight: 1
+      - path: Root/no_move/no_move_3
+        weight: 1
+      - path: Root/no_move/no_move_3/Joint_2_28
+        weight: 1
+      - path: Root/no_move/no_move_4
+        weight: 1
+      - path: Root/no_move/no_move_4/Joint_2_23
+        weight: 1
+      - path: Root/no_move/no_move_4_2
+        weight: 1
+      - path: Root/no_move/no_move_4_2/Joint_2_24
+        weight: 1
+      - path: Root/no_move/no_move_5
+        weight: 1
+      - path: Root/no_move/no_move_5/Joint_2_21
+        weight: 1
+      - path: Root/no_move/no_move_5_2
+        weight: 1
+      - path: Root/no_move/no_move_5_2/Joint_2_22
+        weight: 1
+      - path: Root/no_move/no_move_6
+        weight: 1
+      - path: Root/no_move/no_move_6/Joint_2_20
+        weight: 1
+      - path: Root/no_move/no_move_7_atras
+        weight: 1
+      - path: Root/no_move/no_move_7_atras/Joint_2_19
+        weight: 1
+      - path: Root/no_move/no_move__3
+        weight: 1
+      - path: Root/no_move/no_move__3/Joint_2_27
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu/Joint_2_14
+        weight: 1
+      - path: Root/no_move/no_move_NO
+        weight: 1
+      - path: Root/no_move/no_move_NO/Joint_2_18
+        weight: 1
+      - path: Root/no_move/no_move_NO_1
+        weight: 1
+      - path: Root/no_move/no_move_NO_1/Joint_2_17
+        weight: 1
+      - path: Root/no_move/no_move_NO_2
+        weight: 1
+      - path: Root/no_move/no_move_NO_2/Joint_2_16
+        weight: 1
+      - path: Root/no_move/no_move_NO_3
+        weight: 1
+      - path: Root/no_move/no_move_NO_3/Joint_2_15
+        weight: 1
+      - path: Root/no_move/QQQ____quijada
+        weight: 1
+      - path: Root/no_move/QQQ____quijada/Joint_2_11
+        weight: 1
+      - path: Skin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: afirmative talking
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 443
+      lastFrame: 500
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart0
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart1
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart2
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/face_pivote_____
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___/Joint_2_10
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der/Joint_2_9
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq/Joint_2_8
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____/Joint_2_7
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der/Joint_2_5
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq/Joint_2_6
+        weight: 1
+      - path: Root/face_pivote_____/chick_1
+        weight: 1
+      - path: Root/face_pivote_____/chick_1/Joint_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2/Joint_2_2
+        weight: 1
+      - path: Root/face_pivote_____/nariz
+        weight: 1
+      - path: Root/face_pivote_____/nariz/Joint_2_4
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente/Joint_2_3
+        weight: 1
+      - path: Root/no_move
+        weight: 1
+      - path: Root/no_move/no_move_1
+        weight: 1
+      - path: Root/no_move/no_move_1/Joint_2_25
+        weight: 1
+      - path: Root/no_move/no_move_1_2
+        weight: 1
+      - path: Root/no_move/no_move_1_2/Joint_2_26
+        weight: 1
+      - path: Root/no_move/no_move_2_1
+        weight: 1
+      - path: Root/no_move/no_move_2_1/Joint_2_13
+        weight: 1
+      - path: Root/no_move/no_move_2_2
+        weight: 1
+      - path: Root/no_move/no_move_2_2/Joint_2_12
+        weight: 1
+      - path: Root/no_move/no_move_3
+        weight: 1
+      - path: Root/no_move/no_move_3/Joint_2_28
+        weight: 1
+      - path: Root/no_move/no_move_4
+        weight: 1
+      - path: Root/no_move/no_move_4/Joint_2_23
+        weight: 1
+      - path: Root/no_move/no_move_4_2
+        weight: 1
+      - path: Root/no_move/no_move_4_2/Joint_2_24
+        weight: 1
+      - path: Root/no_move/no_move_5
+        weight: 1
+      - path: Root/no_move/no_move_5/Joint_2_21
+        weight: 1
+      - path: Root/no_move/no_move_5_2
+        weight: 1
+      - path: Root/no_move/no_move_5_2/Joint_2_22
+        weight: 1
+      - path: Root/no_move/no_move_6
+        weight: 1
+      - path: Root/no_move/no_move_6/Joint_2_20
+        weight: 1
+      - path: Root/no_move/no_move_7_atras
+        weight: 1
+      - path: Root/no_move/no_move_7_atras/Joint_2_19
+        weight: 1
+      - path: Root/no_move/no_move__3
+        weight: 1
+      - path: Root/no_move/no_move__3/Joint_2_27
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu/Joint_2_14
+        weight: 1
+      - path: Root/no_move/no_move_NO
+        weight: 1
+      - path: Root/no_move/no_move_NO/Joint_2_18
+        weight: 1
+      - path: Root/no_move/no_move_NO_1
+        weight: 1
+      - path: Root/no_move/no_move_NO_1/Joint_2_17
+        weight: 1
+      - path: Root/no_move/no_move_NO_2
+        weight: 1
+      - path: Root/no_move/no_move_NO_2/Joint_2_16
+        weight: 1
+      - path: Root/no_move/no_move_NO_3
+        weight: 1
+      - path: Root/no_move/no_move_NO_3/Joint_2_15
+        weight: 1
+      - path: Root/no_move/QQQ____quijada
+        weight: 1
+      - path: Root/no_move/QQQ____quijada/Joint_2_11
+        weight: 1
+      - path: Skin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: negative talking
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 238
+      lastFrame: 281
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart0
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart1
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart2
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/face_pivote_____
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___/Joint_2_10
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der/Joint_2_9
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq/Joint_2_8
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____/Joint_2_7
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der/Joint_2_5
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq/Joint_2_6
+        weight: 1
+      - path: Root/face_pivote_____/chick_1
+        weight: 1
+      - path: Root/face_pivote_____/chick_1/Joint_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2/Joint_2_2
+        weight: 1
+      - path: Root/face_pivote_____/nariz
+        weight: 1
+      - path: Root/face_pivote_____/nariz/Joint_2_4
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente/Joint_2_3
+        weight: 1
+      - path: Root/no_move
+        weight: 1
+      - path: Root/no_move/no_move_1
+        weight: 1
+      - path: Root/no_move/no_move_1/Joint_2_25
+        weight: 1
+      - path: Root/no_move/no_move_1_2
+        weight: 1
+      - path: Root/no_move/no_move_1_2/Joint_2_26
+        weight: 1
+      - path: Root/no_move/no_move_2_1
+        weight: 1
+      - path: Root/no_move/no_move_2_1/Joint_2_13
+        weight: 1
+      - path: Root/no_move/no_move_2_2
+        weight: 1
+      - path: Root/no_move/no_move_2_2/Joint_2_12
+        weight: 1
+      - path: Root/no_move/no_move_3
+        weight: 1
+      - path: Root/no_move/no_move_3/Joint_2_28
+        weight: 1
+      - path: Root/no_move/no_move_4
+        weight: 1
+      - path: Root/no_move/no_move_4/Joint_2_23
+        weight: 1
+      - path: Root/no_move/no_move_4_2
+        weight: 1
+      - path: Root/no_move/no_move_4_2/Joint_2_24
+        weight: 1
+      - path: Root/no_move/no_move_5
+        weight: 1
+      - path: Root/no_move/no_move_5/Joint_2_21
+        weight: 1
+      - path: Root/no_move/no_move_5_2
+        weight: 1
+      - path: Root/no_move/no_move_5_2/Joint_2_22
+        weight: 1
+      - path: Root/no_move/no_move_6
+        weight: 1
+      - path: Root/no_move/no_move_6/Joint_2_20
+        weight: 1
+      - path: Root/no_move/no_move_7_atras
+        weight: 1
+      - path: Root/no_move/no_move_7_atras/Joint_2_19
+        weight: 1
+      - path: Root/no_move/no_move__3
+        weight: 1
+      - path: Root/no_move/no_move__3/Joint_2_27
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu/Joint_2_14
+        weight: 1
+      - path: Root/no_move/no_move_NO
+        weight: 1
+      - path: Root/no_move/no_move_NO/Joint_2_18
+        weight: 1
+      - path: Root/no_move/no_move_NO_1
+        weight: 1
+      - path: Root/no_move/no_move_NO_1/Joint_2_17
+        weight: 1
+      - path: Root/no_move/no_move_NO_2
+        weight: 1
+      - path: Root/no_move/no_move_NO_2/Joint_2_16
+        weight: 1
+      - path: Root/no_move/no_move_NO_3
+        weight: 1
+      - path: Root/no_move/no_move_NO_3/Joint_2_15
+        weight: 1
+      - path: Root/no_move/QQQ____quijada
+        weight: 1
+      - path: Root/no_move/QQQ____quijada/Joint_2_11
+        weight: 1
+      - path: Skin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: afirmative angry
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 188
+      lastFrame: 208
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart0
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart1
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart2
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/face_pivote_____
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___/Joint_2_10
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der/Joint_2_9
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq/Joint_2_8
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____/Joint_2_7
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der/Joint_2_5
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq/Joint_2_6
+        weight: 1
+      - path: Root/face_pivote_____/chick_1
+        weight: 1
+      - path: Root/face_pivote_____/chick_1/Joint_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2/Joint_2_2
+        weight: 1
+      - path: Root/face_pivote_____/nariz
+        weight: 1
+      - path: Root/face_pivote_____/nariz/Joint_2_4
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente/Joint_2_3
+        weight: 1
+      - path: Root/no_move
+        weight: 1
+      - path: Root/no_move/no_move_1
+        weight: 1
+      - path: Root/no_move/no_move_1/Joint_2_25
+        weight: 1
+      - path: Root/no_move/no_move_1_2
+        weight: 1
+      - path: Root/no_move/no_move_1_2/Joint_2_26
+        weight: 1
+      - path: Root/no_move/no_move_2_1
+        weight: 1
+      - path: Root/no_move/no_move_2_1/Joint_2_13
+        weight: 1
+      - path: Root/no_move/no_move_2_2
+        weight: 1
+      - path: Root/no_move/no_move_2_2/Joint_2_12
+        weight: 1
+      - path: Root/no_move/no_move_3
+        weight: 1
+      - path: Root/no_move/no_move_3/Joint_2_28
+        weight: 1
+      - path: Root/no_move/no_move_4
+        weight: 1
+      - path: Root/no_move/no_move_4/Joint_2_23
+        weight: 1
+      - path: Root/no_move/no_move_4_2
+        weight: 1
+      - path: Root/no_move/no_move_4_2/Joint_2_24
+        weight: 1
+      - path: Root/no_move/no_move_5
+        weight: 1
+      - path: Root/no_move/no_move_5/Joint_2_21
+        weight: 1
+      - path: Root/no_move/no_move_5_2
+        weight: 1
+      - path: Root/no_move/no_move_5_2/Joint_2_22
+        weight: 1
+      - path: Root/no_move/no_move_6
+        weight: 1
+      - path: Root/no_move/no_move_6/Joint_2_20
+        weight: 1
+      - path: Root/no_move/no_move_7_atras
+        weight: 1
+      - path: Root/no_move/no_move_7_atras/Joint_2_19
+        weight: 1
+      - path: Root/no_move/no_move__3
+        weight: 1
+      - path: Root/no_move/no_move__3/Joint_2_27
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu/Joint_2_14
+        weight: 1
+      - path: Root/no_move/no_move_NO
+        weight: 1
+      - path: Root/no_move/no_move_NO/Joint_2_18
+        weight: 1
+      - path: Root/no_move/no_move_NO_1
+        weight: 1
+      - path: Root/no_move/no_move_NO_1/Joint_2_17
+        weight: 1
+      - path: Root/no_move/no_move_NO_2
+        weight: 1
+      - path: Root/no_move/no_move_NO_2/Joint_2_16
+        weight: 1
+      - path: Root/no_move/no_move_NO_3
+        weight: 1
+      - path: Root/no_move/no_move_NO_3/Joint_2_15
+        weight: 1
+      - path: Root/no_move/QQQ____quijada
+        weight: 1
+      - path: Root/no_move/QQQ____quijada/Joint_2_11
+        weight: 1
+      - path: Skin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: negative angry
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 211
+      lastFrame: 231
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart0
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart1
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart2
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/face_pivote_____
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___/Joint_2_10
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der/Joint_2_9
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq/Joint_2_8
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____/Joint_2_7
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der/Joint_2_5
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq/Joint_2_6
+        weight: 1
+      - path: Root/face_pivote_____/chick_1
+        weight: 1
+      - path: Root/face_pivote_____/chick_1/Joint_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2/Joint_2_2
+        weight: 1
+      - path: Root/face_pivote_____/nariz
+        weight: 1
+      - path: Root/face_pivote_____/nariz/Joint_2_4
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente/Joint_2_3
+        weight: 1
+      - path: Root/no_move
+        weight: 1
+      - path: Root/no_move/no_move_1
+        weight: 1
+      - path: Root/no_move/no_move_1/Joint_2_25
+        weight: 1
+      - path: Root/no_move/no_move_1_2
+        weight: 1
+      - path: Root/no_move/no_move_1_2/Joint_2_26
+        weight: 1
+      - path: Root/no_move/no_move_2_1
+        weight: 1
+      - path: Root/no_move/no_move_2_1/Joint_2_13
+        weight: 1
+      - path: Root/no_move/no_move_2_2
+        weight: 1
+      - path: Root/no_move/no_move_2_2/Joint_2_12
+        weight: 1
+      - path: Root/no_move/no_move_3
+        weight: 1
+      - path: Root/no_move/no_move_3/Joint_2_28
+        weight: 1
+      - path: Root/no_move/no_move_4
+        weight: 1
+      - path: Root/no_move/no_move_4/Joint_2_23
+        weight: 1
+      - path: Root/no_move/no_move_4_2
+        weight: 1
+      - path: Root/no_move/no_move_4_2/Joint_2_24
+        weight: 1
+      - path: Root/no_move/no_move_5
+        weight: 1
+      - path: Root/no_move/no_move_5/Joint_2_21
+        weight: 1
+      - path: Root/no_move/no_move_5_2
+        weight: 1
+      - path: Root/no_move/no_move_5_2/Joint_2_22
+        weight: 1
+      - path: Root/no_move/no_move_6
+        weight: 1
+      - path: Root/no_move/no_move_6/Joint_2_20
+        weight: 1
+      - path: Root/no_move/no_move_7_atras
+        weight: 1
+      - path: Root/no_move/no_move_7_atras/Joint_2_19
+        weight: 1
+      - path: Root/no_move/no_move__3
+        weight: 1
+      - path: Root/no_move/no_move__3/Joint_2_27
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu/Joint_2_14
+        weight: 1
+      - path: Root/no_move/no_move_NO
+        weight: 1
+      - path: Root/no_move/no_move_NO/Joint_2_18
+        weight: 1
+      - path: Root/no_move/no_move_NO_1
+        weight: 1
+      - path: Root/no_move/no_move_NO_1/Joint_2_17
+        weight: 1
+      - path: Root/no_move/no_move_NO_2
+        weight: 1
+      - path: Root/no_move/no_move_NO_2/Joint_2_16
+        weight: 1
+      - path: Root/no_move/no_move_NO_3
+        weight: 1
+      - path: Root/no_move/no_move_NO_3/Joint_2_15
+        weight: 1
+      - path: Root/no_move/QQQ____quijada
+        weight: 1
+      - path: Root/no_move/QQQ____quijada/Joint_2_11
+        weight: 1
+      - path: Skin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: just talking 01
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 285
+      lastFrame: 340
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart0
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart1
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart2
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/face_pivote_____
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___/Joint_2_10
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der/Joint_2_9
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq/Joint_2_8
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____/Joint_2_7
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der/Joint_2_5
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq/Joint_2_6
+        weight: 1
+      - path: Root/face_pivote_____/chick_1
+        weight: 1
+      - path: Root/face_pivote_____/chick_1/Joint_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2/Joint_2_2
+        weight: 1
+      - path: Root/face_pivote_____/nariz
+        weight: 1
+      - path: Root/face_pivote_____/nariz/Joint_2_4
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente/Joint_2_3
+        weight: 1
+      - path: Root/no_move
+        weight: 1
+      - path: Root/no_move/no_move_1
+        weight: 1
+      - path: Root/no_move/no_move_1/Joint_2_25
+        weight: 1
+      - path: Root/no_move/no_move_1_2
+        weight: 1
+      - path: Root/no_move/no_move_1_2/Joint_2_26
+        weight: 1
+      - path: Root/no_move/no_move_2_1
+        weight: 1
+      - path: Root/no_move/no_move_2_1/Joint_2_13
+        weight: 1
+      - path: Root/no_move/no_move_2_2
+        weight: 1
+      - path: Root/no_move/no_move_2_2/Joint_2_12
+        weight: 1
+      - path: Root/no_move/no_move_3
+        weight: 1
+      - path: Root/no_move/no_move_3/Joint_2_28
+        weight: 1
+      - path: Root/no_move/no_move_4
+        weight: 1
+      - path: Root/no_move/no_move_4/Joint_2_23
+        weight: 1
+      - path: Root/no_move/no_move_4_2
+        weight: 1
+      - path: Root/no_move/no_move_4_2/Joint_2_24
+        weight: 1
+      - path: Root/no_move/no_move_5
+        weight: 1
+      - path: Root/no_move/no_move_5/Joint_2_21
+        weight: 1
+      - path: Root/no_move/no_move_5_2
+        weight: 1
+      - path: Root/no_move/no_move_5_2/Joint_2_22
+        weight: 1
+      - path: Root/no_move/no_move_6
+        weight: 1
+      - path: Root/no_move/no_move_6/Joint_2_20
+        weight: 1
+      - path: Root/no_move/no_move_7_atras
+        weight: 1
+      - path: Root/no_move/no_move_7_atras/Joint_2_19
+        weight: 1
+      - path: Root/no_move/no_move__3
+        weight: 1
+      - path: Root/no_move/no_move__3/Joint_2_27
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu/Joint_2_14
+        weight: 1
+      - path: Root/no_move/no_move_NO
+        weight: 1
+      - path: Root/no_move/no_move_NO/Joint_2_18
+        weight: 1
+      - path: Root/no_move/no_move_NO_1
+        weight: 1
+      - path: Root/no_move/no_move_NO_1/Joint_2_17
+        weight: 1
+      - path: Root/no_move/no_move_NO_2
+        weight: 1
+      - path: Root/no_move/no_move_NO_2/Joint_2_16
+        weight: 1
+      - path: Root/no_move/no_move_NO_3
+        weight: 1
+      - path: Root/no_move/no_move_NO_3/Joint_2_15
+        weight: 1
+      - path: Root/no_move/QQQ____quijada
+        weight: 1
+      - path: Root/no_move/QQQ____quijada/Joint_2_11
+        weight: 1
+      - path: Skin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: just talking 02
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 341
+      lastFrame: 395
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart0
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart1
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart2
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/face_pivote_____
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___/Joint_2_10
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der/Joint_2_9
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq/Joint_2_8
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____/Joint_2_7
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der/Joint_2_5
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq/Joint_2_6
+        weight: 1
+      - path: Root/face_pivote_____/chick_1
+        weight: 1
+      - path: Root/face_pivote_____/chick_1/Joint_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2/Joint_2_2
+        weight: 1
+      - path: Root/face_pivote_____/nariz
+        weight: 1
+      - path: Root/face_pivote_____/nariz/Joint_2_4
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente/Joint_2_3
+        weight: 1
+      - path: Root/no_move
+        weight: 1
+      - path: Root/no_move/no_move_1
+        weight: 1
+      - path: Root/no_move/no_move_1/Joint_2_25
+        weight: 1
+      - path: Root/no_move/no_move_1_2
+        weight: 1
+      - path: Root/no_move/no_move_1_2/Joint_2_26
+        weight: 1
+      - path: Root/no_move/no_move_2_1
+        weight: 1
+      - path: Root/no_move/no_move_2_1/Joint_2_13
+        weight: 1
+      - path: Root/no_move/no_move_2_2
+        weight: 1
+      - path: Root/no_move/no_move_2_2/Joint_2_12
+        weight: 1
+      - path: Root/no_move/no_move_3
+        weight: 1
+      - path: Root/no_move/no_move_3/Joint_2_28
+        weight: 1
+      - path: Root/no_move/no_move_4
+        weight: 1
+      - path: Root/no_move/no_move_4/Joint_2_23
+        weight: 1
+      - path: Root/no_move/no_move_4_2
+        weight: 1
+      - path: Root/no_move/no_move_4_2/Joint_2_24
+        weight: 1
+      - path: Root/no_move/no_move_5
+        weight: 1
+      - path: Root/no_move/no_move_5/Joint_2_21
+        weight: 1
+      - path: Root/no_move/no_move_5_2
+        weight: 1
+      - path: Root/no_move/no_move_5_2/Joint_2_22
+        weight: 1
+      - path: Root/no_move/no_move_6
+        weight: 1
+      - path: Root/no_move/no_move_6/Joint_2_20
+        weight: 1
+      - path: Root/no_move/no_move_7_atras
+        weight: 1
+      - path: Root/no_move/no_move_7_atras/Joint_2_19
+        weight: 1
+      - path: Root/no_move/no_move__3
+        weight: 1
+      - path: Root/no_move/no_move__3/Joint_2_27
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu/Joint_2_14
+        weight: 1
+      - path: Root/no_move/no_move_NO
+        weight: 1
+      - path: Root/no_move/no_move_NO/Joint_2_18
+        weight: 1
+      - path: Root/no_move/no_move_NO_1
+        weight: 1
+      - path: Root/no_move/no_move_NO_1/Joint_2_17
+        weight: 1
+      - path: Root/no_move/no_move_NO_2
+        weight: 1
+      - path: Root/no_move/no_move_NO_2/Joint_2_16
+        weight: 1
+      - path: Root/no_move/no_move_NO_3
+        weight: 1
+      - path: Root/no_move/no_move_NO_3/Joint_2_15
+        weight: 1
+      - path: Root/no_move/QQQ____quijada
+        weight: 1
+      - path: Root/no_move/QQQ____quijada/Joint_2_11
+        weight: 1
+      - path: Skin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: just talking 03
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 397
+      lastFrame: 440
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart0
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart1
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart2
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/face_pivote_____
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___/Joint_2_10
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der/Joint_2_9
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq/Joint_2_8
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____/Joint_2_7
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der/Joint_2_5
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq/Joint_2_6
+        weight: 1
+      - path: Root/face_pivote_____/chick_1
+        weight: 1
+      - path: Root/face_pivote_____/chick_1/Joint_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2/Joint_2_2
+        weight: 1
+      - path: Root/face_pivote_____/nariz
+        weight: 1
+      - path: Root/face_pivote_____/nariz/Joint_2_4
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente/Joint_2_3
+        weight: 1
+      - path: Root/no_move
+        weight: 1
+      - path: Root/no_move/no_move_1
+        weight: 1
+      - path: Root/no_move/no_move_1/Joint_2_25
+        weight: 1
+      - path: Root/no_move/no_move_1_2
+        weight: 1
+      - path: Root/no_move/no_move_1_2/Joint_2_26
+        weight: 1
+      - path: Root/no_move/no_move_2_1
+        weight: 1
+      - path: Root/no_move/no_move_2_1/Joint_2_13
+        weight: 1
+      - path: Root/no_move/no_move_2_2
+        weight: 1
+      - path: Root/no_move/no_move_2_2/Joint_2_12
+        weight: 1
+      - path: Root/no_move/no_move_3
+        weight: 1
+      - path: Root/no_move/no_move_3/Joint_2_28
+        weight: 1
+      - path: Root/no_move/no_move_4
+        weight: 1
+      - path: Root/no_move/no_move_4/Joint_2_23
+        weight: 1
+      - path: Root/no_move/no_move_4_2
+        weight: 1
+      - path: Root/no_move/no_move_4_2/Joint_2_24
+        weight: 1
+      - path: Root/no_move/no_move_5
+        weight: 1
+      - path: Root/no_move/no_move_5/Joint_2_21
+        weight: 1
+      - path: Root/no_move/no_move_5_2
+        weight: 1
+      - path: Root/no_move/no_move_5_2/Joint_2_22
+        weight: 1
+      - path: Root/no_move/no_move_6
+        weight: 1
+      - path: Root/no_move/no_move_6/Joint_2_20
+        weight: 1
+      - path: Root/no_move/no_move_7_atras
+        weight: 1
+      - path: Root/no_move/no_move_7_atras/Joint_2_19
+        weight: 1
+      - path: Root/no_move/no_move__3
+        weight: 1
+      - path: Root/no_move/no_move__3/Joint_2_27
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu/Joint_2_14
+        weight: 1
+      - path: Root/no_move/no_move_NO
+        weight: 1
+      - path: Root/no_move/no_move_NO/Joint_2_18
+        weight: 1
+      - path: Root/no_move/no_move_NO_1
+        weight: 1
+      - path: Root/no_move/no_move_NO_1/Joint_2_17
+        weight: 1
+      - path: Root/no_move/no_move_NO_2
+        weight: 1
+      - path: Root/no_move/no_move_NO_2/Joint_2_16
+        weight: 1
+      - path: Root/no_move/no_move_NO_3
+        weight: 1
+      - path: Root/no_move/no_move_NO_3/Joint_2_15
+        weight: 1
+      - path: Root/no_move/QQQ____quijada
+        weight: 1
+      - path: Root/no_move/QQQ____quijada/Joint_2_11
+        weight: 1
+      - path: Skin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle mouth open
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 553
+      lastFrame: 605
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart0
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart1
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart2
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/face_pivote_____
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___/Joint_2_10
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der/Joint_2_9
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq/Joint_2_8
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____/Joint_2_7
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der/Joint_2_5
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq/Joint_2_6
+        weight: 1
+      - path: Root/face_pivote_____/chick_1
+        weight: 1
+      - path: Root/face_pivote_____/chick_1/Joint_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2/Joint_2_2
+        weight: 1
+      - path: Root/face_pivote_____/nariz
+        weight: 1
+      - path: Root/face_pivote_____/nariz/Joint_2_4
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente/Joint_2_3
+        weight: 1
+      - path: Root/no_move
+        weight: 1
+      - path: Root/no_move/no_move_1
+        weight: 1
+      - path: Root/no_move/no_move_1/Joint_2_25
+        weight: 1
+      - path: Root/no_move/no_move_1_2
+        weight: 1
+      - path: Root/no_move/no_move_1_2/Joint_2_26
+        weight: 1
+      - path: Root/no_move/no_move_2_1
+        weight: 1
+      - path: Root/no_move/no_move_2_1/Joint_2_13
+        weight: 1
+      - path: Root/no_move/no_move_2_2
+        weight: 1
+      - path: Root/no_move/no_move_2_2/Joint_2_12
+        weight: 1
+      - path: Root/no_move/no_move_3
+        weight: 1
+      - path: Root/no_move/no_move_3/Joint_2_28
+        weight: 1
+      - path: Root/no_move/no_move_4
+        weight: 1
+      - path: Root/no_move/no_move_4/Joint_2_23
+        weight: 1
+      - path: Root/no_move/no_move_4_2
+        weight: 1
+      - path: Root/no_move/no_move_4_2/Joint_2_24
+        weight: 1
+      - path: Root/no_move/no_move_5
+        weight: 1
+      - path: Root/no_move/no_move_5/Joint_2_21
+        weight: 1
+      - path: Root/no_move/no_move_5_2
+        weight: 1
+      - path: Root/no_move/no_move_5_2/Joint_2_22
+        weight: 1
+      - path: Root/no_move/no_move_6
+        weight: 1
+      - path: Root/no_move/no_move_6/Joint_2_20
+        weight: 1
+      - path: Root/no_move/no_move_7_atras
+        weight: 1
+      - path: Root/no_move/no_move_7_atras/Joint_2_19
+        weight: 1
+      - path: Root/no_move/no_move__3
+        weight: 1
+      - path: Root/no_move/no_move__3/Joint_2_27
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu/Joint_2_14
+        weight: 1
+      - path: Root/no_move/no_move_NO
+        weight: 1
+      - path: Root/no_move/no_move_NO/Joint_2_18
+        weight: 1
+      - path: Root/no_move/no_move_NO_1
+        weight: 1
+      - path: Root/no_move/no_move_NO_1/Joint_2_17
+        weight: 1
+      - path: Root/no_move/no_move_NO_2
+        weight: 1
+      - path: Root/no_move/no_move_NO_2/Joint_2_16
+        weight: 1
+      - path: Root/no_move/no_move_NO_3
+        weight: 1
+      - path: Root/no_move/no_move_NO_3/Joint_2_15
+        weight: 1
+      - path: Root/no_move/QQQ____quijada
+        weight: 1
+      - path: Root/no_move/QQQ____quijada/Joint_2_11
+        weight: 1
+      - path: Skin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle mouth close
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 608
+      lastFrame: 660
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart0
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart1
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart2
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/face_pivote_____
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___/Joint_2_10
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der/Joint_2_9
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq/Joint_2_8
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____/Joint_2_7
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der/Joint_2_5
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq/Joint_2_6
+        weight: 1
+      - path: Root/face_pivote_____/chick_1
+        weight: 1
+      - path: Root/face_pivote_____/chick_1/Joint_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2/Joint_2_2
+        weight: 1
+      - path: Root/face_pivote_____/nariz
+        weight: 1
+      - path: Root/face_pivote_____/nariz/Joint_2_4
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente/Joint_2_3
+        weight: 1
+      - path: Root/no_move
+        weight: 1
+      - path: Root/no_move/no_move_1
+        weight: 1
+      - path: Root/no_move/no_move_1/Joint_2_25
+        weight: 1
+      - path: Root/no_move/no_move_1_2
+        weight: 1
+      - path: Root/no_move/no_move_1_2/Joint_2_26
+        weight: 1
+      - path: Root/no_move/no_move_2_1
+        weight: 1
+      - path: Root/no_move/no_move_2_1/Joint_2_13
+        weight: 1
+      - path: Root/no_move/no_move_2_2
+        weight: 1
+      - path: Root/no_move/no_move_2_2/Joint_2_12
+        weight: 1
+      - path: Root/no_move/no_move_3
+        weight: 1
+      - path: Root/no_move/no_move_3/Joint_2_28
+        weight: 1
+      - path: Root/no_move/no_move_4
+        weight: 1
+      - path: Root/no_move/no_move_4/Joint_2_23
+        weight: 1
+      - path: Root/no_move/no_move_4_2
+        weight: 1
+      - path: Root/no_move/no_move_4_2/Joint_2_24
+        weight: 1
+      - path: Root/no_move/no_move_5
+        weight: 1
+      - path: Root/no_move/no_move_5/Joint_2_21
+        weight: 1
+      - path: Root/no_move/no_move_5_2
+        weight: 1
+      - path: Root/no_move/no_move_5_2/Joint_2_22
+        weight: 1
+      - path: Root/no_move/no_move_6
+        weight: 1
+      - path: Root/no_move/no_move_6/Joint_2_20
+        weight: 1
+      - path: Root/no_move/no_move_7_atras
+        weight: 1
+      - path: Root/no_move/no_move_7_atras/Joint_2_19
+        weight: 1
+      - path: Root/no_move/no_move__3
+        weight: 1
+      - path: Root/no_move/no_move__3/Joint_2_27
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu/Joint_2_14
+        weight: 1
+      - path: Root/no_move/no_move_NO
+        weight: 1
+      - path: Root/no_move/no_move_NO/Joint_2_18
+        weight: 1
+      - path: Root/no_move/no_move_NO_1
+        weight: 1
+      - path: Root/no_move/no_move_NO_1/Joint_2_17
+        weight: 1
+      - path: Root/no_move/no_move_NO_2
+        weight: 1
+      - path: Root/no_move/no_move_NO_2/Joint_2_16
+        weight: 1
+      - path: Root/no_move/no_move_NO_3
+        weight: 1
+      - path: Root/no_move/no_move_NO_3/Joint_2_15
+        weight: 1
+      - path: Root/no_move/QQQ____quijada
+        weight: 1
+      - path: Root/no_move/QQQ____quijada/Joint_2_11
+        weight: 1
+      - path: Skin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: admiration mouth close
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 662
+      lastFrame: 670
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart0
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart1
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart2
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/face_pivote_____
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___/Joint_2_10
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der/Joint_2_9
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq/Joint_2_8
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____/Joint_2_7
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der/Joint_2_5
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq/Joint_2_6
+        weight: 1
+      - path: Root/face_pivote_____/chick_1
+        weight: 1
+      - path: Root/face_pivote_____/chick_1/Joint_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2/Joint_2_2
+        weight: 1
+      - path: Root/face_pivote_____/nariz
+        weight: 1
+      - path: Root/face_pivote_____/nariz/Joint_2_4
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente/Joint_2_3
+        weight: 1
+      - path: Root/no_move
+        weight: 1
+      - path: Root/no_move/no_move_1
+        weight: 1
+      - path: Root/no_move/no_move_1/Joint_2_25
+        weight: 1
+      - path: Root/no_move/no_move_1_2
+        weight: 1
+      - path: Root/no_move/no_move_1_2/Joint_2_26
+        weight: 1
+      - path: Root/no_move/no_move_2_1
+        weight: 1
+      - path: Root/no_move/no_move_2_1/Joint_2_13
+        weight: 1
+      - path: Root/no_move/no_move_2_2
+        weight: 1
+      - path: Root/no_move/no_move_2_2/Joint_2_12
+        weight: 1
+      - path: Root/no_move/no_move_3
+        weight: 1
+      - path: Root/no_move/no_move_3/Joint_2_28
+        weight: 1
+      - path: Root/no_move/no_move_4
+        weight: 1
+      - path: Root/no_move/no_move_4/Joint_2_23
+        weight: 1
+      - path: Root/no_move/no_move_4_2
+        weight: 1
+      - path: Root/no_move/no_move_4_2/Joint_2_24
+        weight: 1
+      - path: Root/no_move/no_move_5
+        weight: 1
+      - path: Root/no_move/no_move_5/Joint_2_21
+        weight: 1
+      - path: Root/no_move/no_move_5_2
+        weight: 1
+      - path: Root/no_move/no_move_5_2/Joint_2_22
+        weight: 1
+      - path: Root/no_move/no_move_6
+        weight: 1
+      - path: Root/no_move/no_move_6/Joint_2_20
+        weight: 1
+      - path: Root/no_move/no_move_7_atras
+        weight: 1
+      - path: Root/no_move/no_move_7_atras/Joint_2_19
+        weight: 1
+      - path: Root/no_move/no_move__3
+        weight: 1
+      - path: Root/no_move/no_move__3/Joint_2_27
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu/Joint_2_14
+        weight: 1
+      - path: Root/no_move/no_move_NO
+        weight: 1
+      - path: Root/no_move/no_move_NO/Joint_2_18
+        weight: 1
+      - path: Root/no_move/no_move_NO_1
+        weight: 1
+      - path: Root/no_move/no_move_NO_1/Joint_2_17
+        weight: 1
+      - path: Root/no_move/no_move_NO_2
+        weight: 1
+      - path: Root/no_move/no_move_NO_2/Joint_2_16
+        weight: 1
+      - path: Root/no_move/no_move_NO_3
+        weight: 1
+      - path: Root/no_move/no_move_NO_3/Joint_2_15
+        weight: 1
+      - path: Root/no_move/QQQ____quijada
+        weight: 1
+      - path: Root/no_move/QQQ____quijada/Joint_2_11
+        weight: 1
+      - path: Skin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: admiration mouth open
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 674
+      lastFrame: 682
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart0
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart1
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart2
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/face_pivote_____
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___/Joint_2_10
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der/Joint_2_9
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq/Joint_2_8
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____/Joint_2_7
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der/Joint_2_5
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq/Joint_2_6
+        weight: 1
+      - path: Root/face_pivote_____/chick_1
+        weight: 1
+      - path: Root/face_pivote_____/chick_1/Joint_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2/Joint_2_2
+        weight: 1
+      - path: Root/face_pivote_____/nariz
+        weight: 1
+      - path: Root/face_pivote_____/nariz/Joint_2_4
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente/Joint_2_3
+        weight: 1
+      - path: Root/no_move
+        weight: 1
+      - path: Root/no_move/no_move_1
+        weight: 1
+      - path: Root/no_move/no_move_1/Joint_2_25
+        weight: 1
+      - path: Root/no_move/no_move_1_2
+        weight: 1
+      - path: Root/no_move/no_move_1_2/Joint_2_26
+        weight: 1
+      - path: Root/no_move/no_move_2_1
+        weight: 1
+      - path: Root/no_move/no_move_2_1/Joint_2_13
+        weight: 1
+      - path: Root/no_move/no_move_2_2
+        weight: 1
+      - path: Root/no_move/no_move_2_2/Joint_2_12
+        weight: 1
+      - path: Root/no_move/no_move_3
+        weight: 1
+      - path: Root/no_move/no_move_3/Joint_2_28
+        weight: 1
+      - path: Root/no_move/no_move_4
+        weight: 1
+      - path: Root/no_move/no_move_4/Joint_2_23
+        weight: 1
+      - path: Root/no_move/no_move_4_2
+        weight: 1
+      - path: Root/no_move/no_move_4_2/Joint_2_24
+        weight: 1
+      - path: Root/no_move/no_move_5
+        weight: 1
+      - path: Root/no_move/no_move_5/Joint_2_21
+        weight: 1
+      - path: Root/no_move/no_move_5_2
+        weight: 1
+      - path: Root/no_move/no_move_5_2/Joint_2_22
+        weight: 1
+      - path: Root/no_move/no_move_6
+        weight: 1
+      - path: Root/no_move/no_move_6/Joint_2_20
+        weight: 1
+      - path: Root/no_move/no_move_7_atras
+        weight: 1
+      - path: Root/no_move/no_move_7_atras/Joint_2_19
+        weight: 1
+      - path: Root/no_move/no_move__3
+        weight: 1
+      - path: Root/no_move/no_move__3/Joint_2_27
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu/Joint_2_14
+        weight: 1
+      - path: Root/no_move/no_move_NO
+        weight: 1
+      - path: Root/no_move/no_move_NO/Joint_2_18
+        weight: 1
+      - path: Root/no_move/no_move_NO_1
+        weight: 1
+      - path: Root/no_move/no_move_NO_1/Joint_2_17
+        weight: 1
+      - path: Root/no_move/no_move_NO_2
+        weight: 1
+      - path: Root/no_move/no_move_NO_2/Joint_2_16
+        weight: 1
+      - path: Root/no_move/no_move_NO_3
+        weight: 1
+      - path: Root/no_move/no_move_NO_3/Joint_2_15
+        weight: 1
+      - path: Root/no_move/QQQ____quijada
+        weight: 1
+      - path: Root/no_move/QQQ____quijada/Joint_2_11
+        weight: 1
+      - path: Skin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: surprise
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 687
+      lastFrame: 698
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart0
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart1
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart2
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/face_pivote_____
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___/Joint_2_10
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der/Joint_2_9
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq/Joint_2_8
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____/Joint_2_7
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der/Joint_2_5
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq/Joint_2_6
+        weight: 1
+      - path: Root/face_pivote_____/chick_1
+        weight: 1
+      - path: Root/face_pivote_____/chick_1/Joint_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2/Joint_2_2
+        weight: 1
+      - path: Root/face_pivote_____/nariz
+        weight: 1
+      - path: Root/face_pivote_____/nariz/Joint_2_4
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente/Joint_2_3
+        weight: 1
+      - path: Root/no_move
+        weight: 1
+      - path: Root/no_move/no_move_1
+        weight: 1
+      - path: Root/no_move/no_move_1/Joint_2_25
+        weight: 1
+      - path: Root/no_move/no_move_1_2
+        weight: 1
+      - path: Root/no_move/no_move_1_2/Joint_2_26
+        weight: 1
+      - path: Root/no_move/no_move_2_1
+        weight: 1
+      - path: Root/no_move/no_move_2_1/Joint_2_13
+        weight: 1
+      - path: Root/no_move/no_move_2_2
+        weight: 1
+      - path: Root/no_move/no_move_2_2/Joint_2_12
+        weight: 1
+      - path: Root/no_move/no_move_3
+        weight: 1
+      - path: Root/no_move/no_move_3/Joint_2_28
+        weight: 1
+      - path: Root/no_move/no_move_4
+        weight: 1
+      - path: Root/no_move/no_move_4/Joint_2_23
+        weight: 1
+      - path: Root/no_move/no_move_4_2
+        weight: 1
+      - path: Root/no_move/no_move_4_2/Joint_2_24
+        weight: 1
+      - path: Root/no_move/no_move_5
+        weight: 1
+      - path: Root/no_move/no_move_5/Joint_2_21
+        weight: 1
+      - path: Root/no_move/no_move_5_2
+        weight: 1
+      - path: Root/no_move/no_move_5_2/Joint_2_22
+        weight: 1
+      - path: Root/no_move/no_move_6
+        weight: 1
+      - path: Root/no_move/no_move_6/Joint_2_20
+        weight: 1
+      - path: Root/no_move/no_move_7_atras
+        weight: 1
+      - path: Root/no_move/no_move_7_atras/Joint_2_19
+        weight: 1
+      - path: Root/no_move/no_move__3
+        weight: 1
+      - path: Root/no_move/no_move__3/Joint_2_27
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu/Joint_2_14
+        weight: 1
+      - path: Root/no_move/no_move_NO
+        weight: 1
+      - path: Root/no_move/no_move_NO/Joint_2_18
+        weight: 1
+      - path: Root/no_move/no_move_NO_1
+        weight: 1
+      - path: Root/no_move/no_move_NO_1/Joint_2_17
+        weight: 1
+      - path: Root/no_move/no_move_NO_2
+        weight: 1
+      - path: Root/no_move/no_move_NO_2/Joint_2_16
+        weight: 1
+      - path: Root/no_move/no_move_NO_3
+        weight: 1
+      - path: Root/no_move/no_move_NO_3/Joint_2_15
+        weight: 1
+      - path: Root/no_move/QQQ____quijada
+        weight: 1
+      - path: Root/no_move/QQQ____quijada/Joint_2_11
+        weight: 1
+      - path: Skin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: sad mouth close
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 702
+      lastFrame: 712
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart0
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart1
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart2
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/face_pivote_____
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___/Joint_2_10
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der/Joint_2_9
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq/Joint_2_8
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____/Joint_2_7
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der/Joint_2_5
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq/Joint_2_6
+        weight: 1
+      - path: Root/face_pivote_____/chick_1
+        weight: 1
+      - path: Root/face_pivote_____/chick_1/Joint_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2/Joint_2_2
+        weight: 1
+      - path: Root/face_pivote_____/nariz
+        weight: 1
+      - path: Root/face_pivote_____/nariz/Joint_2_4
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente/Joint_2_3
+        weight: 1
+      - path: Root/no_move
+        weight: 1
+      - path: Root/no_move/no_move_1
+        weight: 1
+      - path: Root/no_move/no_move_1/Joint_2_25
+        weight: 1
+      - path: Root/no_move/no_move_1_2
+        weight: 1
+      - path: Root/no_move/no_move_1_2/Joint_2_26
+        weight: 1
+      - path: Root/no_move/no_move_2_1
+        weight: 1
+      - path: Root/no_move/no_move_2_1/Joint_2_13
+        weight: 1
+      - path: Root/no_move/no_move_2_2
+        weight: 1
+      - path: Root/no_move/no_move_2_2/Joint_2_12
+        weight: 1
+      - path: Root/no_move/no_move_3
+        weight: 1
+      - path: Root/no_move/no_move_3/Joint_2_28
+        weight: 1
+      - path: Root/no_move/no_move_4
+        weight: 1
+      - path: Root/no_move/no_move_4/Joint_2_23
+        weight: 1
+      - path: Root/no_move/no_move_4_2
+        weight: 1
+      - path: Root/no_move/no_move_4_2/Joint_2_24
+        weight: 1
+      - path: Root/no_move/no_move_5
+        weight: 1
+      - path: Root/no_move/no_move_5/Joint_2_21
+        weight: 1
+      - path: Root/no_move/no_move_5_2
+        weight: 1
+      - path: Root/no_move/no_move_5_2/Joint_2_22
+        weight: 1
+      - path: Root/no_move/no_move_6
+        weight: 1
+      - path: Root/no_move/no_move_6/Joint_2_20
+        weight: 1
+      - path: Root/no_move/no_move_7_atras
+        weight: 1
+      - path: Root/no_move/no_move_7_atras/Joint_2_19
+        weight: 1
+      - path: Root/no_move/no_move__3
+        weight: 1
+      - path: Root/no_move/no_move__3/Joint_2_27
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu/Joint_2_14
+        weight: 1
+      - path: Root/no_move/no_move_NO
+        weight: 1
+      - path: Root/no_move/no_move_NO/Joint_2_18
+        weight: 1
+      - path: Root/no_move/no_move_NO_1
+        weight: 1
+      - path: Root/no_move/no_move_NO_1/Joint_2_17
+        weight: 1
+      - path: Root/no_move/no_move_NO_2
+        weight: 1
+      - path: Root/no_move/no_move_NO_2/Joint_2_16
+        weight: 1
+      - path: Root/no_move/no_move_NO_3
+        weight: 1
+      - path: Root/no_move/no_move_NO_3/Joint_2_15
+        weight: 1
+      - path: Root/no_move/QQQ____quijada
+        weight: 1
+      - path: Root/no_move/QQQ____quijada/Joint_2_11
+        weight: 1
+      - path: Skin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: sad mouth open
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 716
+      lastFrame: 726
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart0
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart1
+        weight: 1
+      - path: MOUNTAIN_FACE_high_poly_MeshPart2
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/face_pivote_____
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___
+        weight: 1
+      - path: Root/face_pivote_____/_BB_boca_centro___/Joint_2_10
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_der/Joint_2_9
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq
+        weight: 1
+      - path: Root/face_pivote_____/BB_boca_izq/Joint_2_8
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____
+        weight: 1
+      - path: Root/face_pivote_____/ceja_centro____/Joint_2_7
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der
+        weight: 1
+      - path: Root/face_pivote_____/ceja_der/Joint_2_5
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq
+        weight: 1
+      - path: Root/face_pivote_____/ceja_Izq/Joint_2_6
+        weight: 1
+      - path: Root/face_pivote_____/chick_1
+        weight: 1
+      - path: Root/face_pivote_____/chick_1/Joint_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2
+        weight: 1
+      - path: Root/face_pivote_____/chick_2/Joint_2_2
+        weight: 1
+      - path: Root/face_pivote_____/nariz
+        weight: 1
+      - path: Root/face_pivote_____/nariz/Joint_2_4
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente
+        weight: 1
+      - path: Root/face_pivote_____/no_move__frente/Joint_2_3
+        weight: 1
+      - path: Root/no_move
+        weight: 1
+      - path: Root/no_move/no_move_1
+        weight: 1
+      - path: Root/no_move/no_move_1/Joint_2_25
+        weight: 1
+      - path: Root/no_move/no_move_1_2
+        weight: 1
+      - path: Root/no_move/no_move_1_2/Joint_2_26
+        weight: 1
+      - path: Root/no_move/no_move_2_1
+        weight: 1
+      - path: Root/no_move/no_move_2_1/Joint_2_13
+        weight: 1
+      - path: Root/no_move/no_move_2_2
+        weight: 1
+      - path: Root/no_move/no_move_2_2/Joint_2_12
+        weight: 1
+      - path: Root/no_move/no_move_3
+        weight: 1
+      - path: Root/no_move/no_move_3/Joint_2_28
+        weight: 1
+      - path: Root/no_move/no_move_4
+        weight: 1
+      - path: Root/no_move/no_move_4/Joint_2_23
+        weight: 1
+      - path: Root/no_move/no_move_4_2
+        weight: 1
+      - path: Root/no_move/no_move_4_2/Joint_2_24
+        weight: 1
+      - path: Root/no_move/no_move_5
+        weight: 1
+      - path: Root/no_move/no_move_5/Joint_2_21
+        weight: 1
+      - path: Root/no_move/no_move_5_2
+        weight: 1
+      - path: Root/no_move/no_move_5_2/Joint_2_22
+        weight: 1
+      - path: Root/no_move/no_move_6
+        weight: 1
+      - path: Root/no_move/no_move_6/Joint_2_20
+        weight: 1
+      - path: Root/no_move/no_move_7_atras
+        weight: 1
+      - path: Root/no_move/no_move_7_atras/Joint_2_19
+        weight: 1
+      - path: Root/no_move/no_move__3
+        weight: 1
+      - path: Root/no_move/no_move__3/Joint_2_27
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu
+        weight: 1
+      - path: Root/no_move/no_move__frente_yyu/Joint_2_14
+        weight: 1
+      - path: Root/no_move/no_move_NO
+        weight: 1
+      - path: Root/no_move/no_move_NO/Joint_2_18
+        weight: 1
+      - path: Root/no_move/no_move_NO_1
+        weight: 1
+      - path: Root/no_move/no_move_NO_1/Joint_2_17
+        weight: 1
+      - path: Root/no_move/no_move_NO_2
+        weight: 1
+      - path: Root/no_move/no_move_NO_2/Joint_2_16
+        weight: 1
+      - path: Root/no_move/no_move_NO_3
+        weight: 1
+      - path: Root/no_move/no_move_NO_3/Joint_2_15
+        weight: 1
+      - path: Root/no_move/QQQ____quijada
+        weight: 1
+      - path: Root/no_move/QQQ____quijada/Joint_2_11
+        weight: 1
+      - path: Skin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
