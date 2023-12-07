@@ -23,7 +23,9 @@ public class DoorRaiser : MonoBehaviour
 
     private void RaiseDoor()
     {
-        gameObject.transform.position = Vector3.MoveTowards(gameObject.transform.position, topPoint.position, 20f);
+
+        transform.position =  new Vector3(0,5,0);
+//Vector3.MoveTowards(gameObject.transform.position, topPoint.position, 20f);
         //doorHeight = doorHeight + 15;
     }
 }

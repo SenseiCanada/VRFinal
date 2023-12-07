@@ -25,7 +25,11 @@ public class XRResetter : MonoBehaviour
 
     private void ResetPosition(GameObject xrRig)
     {
-        xrRig.transform.position = startPosition;
+	if (xrRig.name.Contains("XR Origin Default"))
+	{
+        	SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+	}
+//        transform.position = startPosition;
     }
 
     private void ResetScene(GameObject xrRig)

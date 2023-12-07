@@ -24,6 +24,7 @@ public class PlatformTrigger : MonoBehaviour
     {
         if (other.CompareTag("XRRig"))
         {
+	    transform.position += new Vector3(0,1,0);
             platformTriggered?.Invoke();
         }
     }
