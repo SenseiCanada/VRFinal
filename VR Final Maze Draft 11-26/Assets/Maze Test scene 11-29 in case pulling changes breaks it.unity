@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18035254, g: 0.22578925, b: 0.30702662, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1432,6 +1432,7 @@ GameObject:
   - component: {fileID: 364790105}
   - component: {fileID: 364790104}
   - component: {fileID: 364790103}
+  - component: {fileID: 364790107}
   m_Layer: 0
   m_Name: Lava (1)
   m_TagString: Untagged
@@ -1447,7 +1448,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 364790102}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -1517,6 +1518,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &364790107
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 364790102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52510984f5314db458afd2cf901f56c4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &376625450
 GameObject:
   m_ObjectHideFlags: 0
@@ -6187,6 +6200,7 @@ GameObject:
   - component: {fileID: 1310681687}
   - component: {fileID: 1310681686}
   - component: {fileID: 1310681685}
+  - component: {fileID: 1310681690}
   m_Layer: 7
   m_Name: XR Origin Default
   m_TagString: Untagged
@@ -6275,6 +6289,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1310681690
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1310681684}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e229d858c1eecdc45b4dce58f51ee388, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  startPosition: {x: 0, y: 0, z: 0}
+  ResetEntireScene: 0
 --- !u!1 &1322631308
 GameObject:
   m_ObjectHideFlags: 0
