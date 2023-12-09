@@ -21,6 +21,10 @@ public class AxePressurePlate : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        OnAxePressurePlateActivated();
+	if (other.CompareTag("XRRig"))
+        {
+            OnAxePressurePlateActivated();
+        }
+        
     }
 }
