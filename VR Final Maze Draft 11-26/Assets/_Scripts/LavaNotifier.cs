@@ -22,6 +22,6 @@ public class LavaNotifier : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-	OnFallInLava(other.gameObject);
+	    OnFallInLava(other.gameObject);
     }
 }

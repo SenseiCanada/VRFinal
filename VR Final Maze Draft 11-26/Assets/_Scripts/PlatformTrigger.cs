@@ -6,12 +6,12 @@ using System;
 
 public class PlatformTrigger : MonoBehaviour
 {
-    public static event Action platformTriggered;
+    public static event Action PlatformTriggered;
     
     // Start is called before the first frame update
     void Start()
     {
-        
+        DontDestroyOnLoad(this.gameObject);
     }
 
     // Update is called once per frame
@@ -24,7 +24,8 @@ public class PlatformTrigger : MonoBehaviour
     {
         if (other.CompareTag("XRRig"))
         {
-            platformTriggered?.Invoke();
+            PlatformTriggered();
+            Debug.Log("Player Triggered Platform");
         }
     }
 }

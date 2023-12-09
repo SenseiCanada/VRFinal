@@ -7,7 +7,7 @@ public class DebugListener : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        PlatformTrigger.platformTriggered += PrintTriggerMessage;
+        PlatformTrigger.PlatformTriggered += PrintTriggerMessage;
     }
 
     // Update is called once per frame

@@ -13,6 +13,7 @@ public class XRResetter : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        
         LavaNotifier.OnFallInLava += ResetPosition;
         LavaNotifier.OnFallInLava += ResetScene;
     }

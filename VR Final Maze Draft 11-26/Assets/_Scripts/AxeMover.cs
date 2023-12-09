@@ -5,13 +5,16 @@ using UnityEngine;
 public class AxeMover : MonoBehaviour
 {
     public Rigidbody axeRB;
-
+    public GameObject pivot;
+    [SerializeField] float axeSpeed;
     // Start is called before the first frame update
     void Start()
     {
+        DontDestroyOnLoad(this.gameObject);
         axeRB = GetComponent<Rigidbody>();
-        axeRB.mass = 0f;
+        //axeRB.mass = 0f;
         AxePressurePlate.OnAxePressurePlateActivated += ActivateAxe;
+
 
     }
 
@@ -23,6 +26,9 @@ public class AxeMover : MonoBehaviour
 
     void ActivateAxe()
     {
-        axeRB.mass = 50f;
+        axeRB.constraints = RigidbodyConstraints.None;
+        //transform.RotateAround(pivot.transform.position, Vector3.down, axeSpeed * Time.deltaTime);
+        //axeRB.mass = 50f;
+        Debug.Log("Axe was activated");
     }
 }

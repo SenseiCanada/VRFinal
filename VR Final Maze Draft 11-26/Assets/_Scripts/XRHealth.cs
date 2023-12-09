@@ -21,7 +21,7 @@ public class XRHealth : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        PLayerDeath();
     }
 
     void PLayerDeath()
