@@ -190,10 +190,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d8c766cc3f8c73478cfe7338ae048b2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  topPoint: {fileID: 0}
-  bottomPoint: {fileID: 0}
-  topTransform: {fileID: 0}
-  bottomTransform: {fileID: 0}
+  topPoint: {fileID: 3946232411780114050}
+  bottomPoint: {fileID: 3946232410671772500}
+  topTransform: {fileID: 3946232411780114077}
+  bottomTransform: {fileID: 3946232410671772503}
   speed: 2
 --- !u!1 &3946232411780114050
 GameObject:
