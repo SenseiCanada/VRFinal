@@ -16,6 +16,7 @@ public class XRResetter : MonoBehaviour
         
         LavaNotifier.OnFallInLava += ResetPosition;
         LavaNotifier.OnFallInLava += ResetScene;
+        FloorCrusherMover.OnCrusherCollide += ResetPosition;
     }
 
     // Update is called once per frame

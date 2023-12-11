@@ -10,8 +10,8 @@ public class AxeMover : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        DontDestroyOnLoad(this.gameObject);
-        axeRB = GetComponent<Rigidbody>();
+        //DontDestroyOnLoad(this.gameObject);
+        axeRB = gameObject.GetComponent<Rigidbody>();
         //axeRB.mass = 0f;
         AxePressurePlate.OnAxePressurePlateActivated += ActivateAxe;
 
@@ -26,9 +26,13 @@ public class AxeMover : MonoBehaviour
 
     void ActivateAxe()
     {
-        axeRB.constraints = RigidbodyConstraints.None;
-        //transform.RotateAround(pivot.transform.position, Vector3.down, axeSpeed * Time.deltaTime);
-        //axeRB.mass = 50f;
-        Debug.Log("Axe was activated");
+        if(axeRB != null)
+        {
+            axeRB.constraints = RigidbodyConstraints.None;
+            //transform.RotateAround(pivot.transform.position, Vector3.down, axeSpeed * Time.deltaTime);
+            //axeRB.mass = 50f;
+            Debug.Log("Axe was activated");
+        }
+        
     }
 }

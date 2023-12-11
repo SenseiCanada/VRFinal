@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - XRRig
+  - TopPoint
+  - BottomPoint
   layers:
   - Default
   - TransparentFX
