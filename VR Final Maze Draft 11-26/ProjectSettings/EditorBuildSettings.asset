@@ -18,7 +18,7 @@ EditorBuildSettings:
     path: Assets/Maze Test Scene 12-8 adding elements back in.unity
     guid: d261ab556f986452db75ff4476fff855
   - enabled: 1
-    path: Assets/Maze Test Scene 12-11 troubleshooting.unity
+    path: Assets/VR Maze Final - SHOW THIS.unity
     guid: f140823b4dc81419fbfc19661268fe40
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 3fc999f4427124841ada094e16e8e8e1, type: 2}
