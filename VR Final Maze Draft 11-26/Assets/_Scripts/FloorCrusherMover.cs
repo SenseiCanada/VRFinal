@@ -5,7 +5,7 @@ using System;
 
 public class FloorCrusherMover : MonoBehaviour
 {
-       public List<Transform> points;
+    public List<Transform> points;
     public Transform platform;
     int goalPoint = 0;
     [SerializeField] float moveSpeed = 2;
@@ -31,10 +31,12 @@ public class FloorCrusherMover : MonoBehaviour
             if (goalPoint == points.Count - 1)
             {
                 goalPoint = 0;
+                Debug.Log("Platform reached point" + goalPoint);
             }
             else
             {
                 goalPoint++;
+                Debug.Log("Platform reached point" + goalPoint);
             }
         }
 
