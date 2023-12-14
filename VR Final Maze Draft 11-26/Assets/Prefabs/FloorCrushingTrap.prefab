@@ -147,7 +147,7 @@ Transform:
   m_Children:
   - {fileID: 3946232410593265406}
   m_Father: {fileID: 3946232411948307572}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!65 &3946232410933850527
 BoxCollider:
@@ -193,7 +193,7 @@ MonoBehaviour:
   points:
   - {fileID: 3946232411780114077}
   - {fileID: 3946232410671772503}
-  platform: {fileID: 3946232411948307572}
+  platform: {fileID: 3946232410593265406}
   moveSpeed: 2
 --- !u!1 &3946232411780114050
 GameObject:
@@ -224,7 +224,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 3946232411948307572}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &3946232411948307573
 GameObject:
@@ -254,8 +254,8 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 3946232411780114077}
   - {fileID: 3946232410933850498}
+  - {fileID: 3946232411780114077}
   - {fileID: 3946232410671772503}
   m_Father: {fileID: 0}
   m_RootOrder: 0
